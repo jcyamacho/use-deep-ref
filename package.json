@@ -18,7 +18,8 @@
     "react": ">=16.8.0"
   },
   "author": "Juan C. Yamacho H.",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": "jcyamacho/use-deep-ref",
   "devDependencies": {
     "@testing-library/react-hooks": "^7.0.2",
     "@types/jest": "^27.0.1",
